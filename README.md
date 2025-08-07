@@ -1,5 +1,7 @@
 # 🏦 Bank Data Analysis Project
 
+<img width="1512" height="1070" alt="Screenshot 2025-08-08 011926" src="https://github.com/user-attachments/assets/da0bb24c-404a-4a51-b0df-2c356560ae64" />
+
 Welcome to the **Bank Data Analysis** project! This repository contains a complete data science pipeline using Python and Jupyter Notebook to explore, visualize, and analyze customer data from a banking dataset.
 
 ---
